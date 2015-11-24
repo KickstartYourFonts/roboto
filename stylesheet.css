@@ -25,3 +25,10 @@
   src: url("./bolditalic/Roboto-BoldItalic.eot?#iefix") format("embedded-opentype"), url("./bolditalic/Roboto-BoldItalic.woff") format("woff"), url("./bolditalic/Roboto-BoldItalic.ttf") format("truetype"), url("./bolditalic/Roboto-BoldItalic.svg#robotobold_italic") format("svg");
   font-weight: bold;
   font-style: italic; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("./light/Roboto-Light.eot");
+  src: url("./light/Roboto-Light.eot?#iefix") format("embedded-opentype"), url("./light/Roboto-Light.woff") format("woff"), url("./light/Roboto-Light.ttf") format("truetype"), url("./light/Roboto-Light.svg#robotolight") format("svg");
+  font-weight: 300;
+  font-style: normal; }

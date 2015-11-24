@@ -46,11 +46,11 @@ $roboto-font-path: '.' !default;
 
 @font-face {
   font-family: 'Roboto';
-  src: url('#{$roboto-font-path}/bolditalic/Roboto-Light.eot');
-  src: url('#{$roboto-font-path}/bolditalic/Roboto-Light.eot?#iefix') format('embedded-opentype'),
-  url('#{$roboto-font-path}/bolditalic/Roboto-Light.woff') format('woff'),
-  url('#{$roboto-font-path}/bolditalic/Roboto-Light.ttf') format('truetype'),
-  url('#{$roboto-font-path}/bolditalic/Roboto-Light.svg#robotolight') format('svg');
+  src: url('#{$roboto-font-path}/light/Roboto-Light.eot');
+  src: url('#{$roboto-font-path}/light/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+  url('#{$roboto-font-path}/light/Roboto-Light.woff') format('woff'),
+  url('#{$roboto-font-path}/light/Roboto-Light.ttf') format('truetype'),
+  url('#{$roboto-font-path}/light/Roboto-Light.svg#robotolight') format('svg');
   font-weight: 300;
   font-style: normal;
 }
