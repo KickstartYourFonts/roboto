@@ -1,0 +1,25 @@
+{
+  "name": "kickfont-roboto",
+  "version": "1.0.1",
+  "homepage": "https://github.com/KickstartYourFonts/roboto",
+  "authors": [
+    "ivelfan"
+  ],
+  "description": "Kickstart Roboto font",
+  "main": "index.html",
+  "keywords": [
+    "kickstart",
+    "font",
+    "roboto"
+  ],
+  "license": "Apache",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "52d44143b4e425d23ad5ebb8ba1f5cb76616f5ce"
+  },
+  "_source": "git://github.com/KickstartYourFonts/roboto.git",
+  "_target": "~1.0.0",
+  "_originalSource": "kickfont-roboto"
+}
